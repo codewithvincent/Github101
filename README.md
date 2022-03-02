@@ -1,5 +1,7 @@
 # Github101
 
+[Live site](https://codewithvincent.github.io/Github101/)
+
 [Video tutorial](https://www.youtube.com/watch?v=DzVRC2QGUa8)
 
 The purpose of this repository is to let you practice git. More specifically:
